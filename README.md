@@ -1,0 +1,2 @@
+# AutoJoin
+BOT
